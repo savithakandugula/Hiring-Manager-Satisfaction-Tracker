@@ -63,7 +63,6 @@ A stacked bar chart showing which feedback areas had more low vs. high scores.
 
 - `hiring_manager_satisfaction_data.xlsx` — Mock data for analysis
 - `hiring_manager_satisfaction_dashboard.png` — Dashboard screenshot
-- `Hiring_Manager_Satisfaction_Case_Study.pptx` *(optional)* — Slide summary
 - `hiring-manager-satisfaction-dashboard.pbix` — **[Download Power BI File](https://your-download-link.com)**
 
 
