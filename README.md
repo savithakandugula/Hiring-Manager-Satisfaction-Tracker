@@ -66,7 +66,6 @@ A stacked bar chart showing which feedback areas had more low vs. high scores.
 - `Hiring_Manager_Satisfaction_Case_Study.pptx` *(optional)* — Slide summary
 - `hiring-manager-satisfaction-dashboard.pbix` — **[Download Power BI File](https://your-download-link.com)**
 
-> Replace the above link with your Google Drive / OneDrive / Dropbox shared link.
 
 ---
 
